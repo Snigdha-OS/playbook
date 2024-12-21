@@ -10,10 +10,11 @@ const config: Config = {
   // Set the production url of your site here
   url: 'https://snigdhaos.org/',
   baseUrl: '/playbook/',
+  trailingSlash: false,
 
   organizationName: 'Snigdha-OS', // GitHub org/user name
   projectName: 'playbook', // Repo name
-
+  deploymentBranch: 'gh-pages',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
