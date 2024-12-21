@@ -77,6 +77,29 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
+    // SEO Configuration
+  metaTags: [
+    {
+      name: 'description',
+      content: 'Snigdha OS is a lightweight, highly customizable Arch-based Linux distribution for general use and penetration testing.'
+    },
+    {
+      name: 'keywords',
+      content: 'Snigdha OS, lightweight Linux, Arch Linux, Linux distribution, penetration testing, cybersecurity, customizable OS, open-source OS, lightweight operating system'
+    },
+    {
+      property: 'og:image',
+      content: 'img/docusaurus-social-card.jpg' // Social media preview image
+    },
+    {
+      property: 'og:title',
+      content: 'PlayBook | SNIGDHA OS'
+    },
+    {
+      property: 'og:description',
+      content: 'Official documentation for Snigdha OS, a lightweight Linux distribution based on Arch Linux and designed for customization and penetration testing.'
+    },
+  ],
   } satisfies Preset.ThemeConfig,
 };
 
