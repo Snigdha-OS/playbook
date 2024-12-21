@@ -36,6 +36,7 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           sidebarCollapsible: false,
           routeBasePath: '/', // Set docs as the homepage
+          showLastUpdateTime: true,
           editUrl: 'https://github.com/Snigdha-OS/playbook/tree/master/',
         },
         theme: {
