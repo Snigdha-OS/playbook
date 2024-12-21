@@ -247,7 +247,7 @@
     "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
   },
   "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
-    "message": "Toggle navigation bar",
+    "message": "নেভিগেশন বার টগল করুন",
     "description": "The ARIA label for hamburger menu button of mobile navigation"
   },
   "theme.docs.sidebar.expandButtonTitle": {
@@ -271,23 +271,23 @@
     "description": "The title of the page for a blog author"
   },
   "theme.blog.authorsList.pageTitle": {
-    "message": "Authors",
+    "message": "লেখক",
     "description": "The title of the authors page"
   },
   "theme.blog.authorsList.viewAll": {
-    "message": "View All Authors",
+    "message": "সমস্ত লেখক দেখুন",
     "description": "The label of the link targeting the blog authors page"
   },
   "theme.blog.author.noPosts": {
-    "message": "This author has not written any posts yet.",
+    "message": "এই লেখক এখনো কোনো পোস্ট লিখেছেন না.",
     "description": "The text for authors with 0 blog post"
   },
   "theme.contentVisibility.unlistedBanner.title": {
-    "message": "Unlisted page",
+    "message": "তালিকাবিহীন পৃষ্ঠা",
     "description": "The unlisted content banner title"
   },
   "theme.contentVisibility.unlistedBanner.message": {
-    "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it.",
+    "message": "এই পৃষ্ঠাটি তালিকাভুক্ত নয়। অনুসন্ধান ইঞ্জিনগুলি এটিকে সূচী করবে না এবং শুধুমাত্র সরাসরি লিঙ্ক থাকা ব্যবহারকারীরা এটি অ্যাক্সেস করতে পারবেন।",
     "description": "The unlisted content banner message"
   },
   "theme.contentVisibility.draftBanner.title": {

@@ -1,14 +1,14 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "পরবর্তী",
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.Introduction": {
-    "message": "Introduction",
+    "message": "ভূমিকা",
     "description": "The label for category Introduction in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Introduction.link.generated-index.description": {
-    "message": "Welcome to the official documentation of Snigdha OS. This section provides an overview of Snigdha OS, its key features, and how to get started with it. Whether you're a new user or an experienced developer, you'll find helpful information to begin your journey with this lightweight and highly customizable Linux distribution.",
+    "message": "স্নিগ্ধা OS এর অফিসিয়াল ডকুমেন্টেশনে স্বাগতম। এই বিভাগটি স্নিগ্ধা OS এর একটি ওভারভিউ প্রদান করে, এর মূল বৈশিষ্ট্যগুলি এবং কীভাবে এটি দিয়ে শুরু করা যায়। আপনি একজন নতুন ব্যবহারকারী বা একজন অভিজ্ঞ ডেভেলপার হোন না কেন, আপনি এই হালকা ওজনের এবং অত্যন্ত কাস্টমাইজযোগ্য লিনাক্স ডিস্ট্রিবিউশনের সাথে আপনার যাত্রা শুরু করার জন্য সহায়ক তথ্য পাবেন।",
     "description": "The generated-index page description for category Introduction in sidebar tutorialSidebar"
   }
 }
